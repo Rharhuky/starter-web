@@ -13,4 +13,4 @@ Maybe i don't know.
 But, share!
 
 ## Copyright
-(y) and Dogo
+(y) and Dogo hehe
