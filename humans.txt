@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    <Allex :D>
 
 # TECHNOLOGY COLOPHON
 
