@@ -13,6 +13,7 @@ Oi mamae, hehe
 ## How to contribute
 
 Maybe i don't know.
+But, share!
 
-##Copyright
+## Copyright
 (y)
